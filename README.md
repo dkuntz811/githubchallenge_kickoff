@@ -5,3 +5,5 @@ For my github challenge I will be reinforcing my JavaScript and jQuery skills be
 If after I feel like I have a better handle on these two languages, I will begin to explore a new one.
 
 Module Madness and Express Routing Challenge need to be updated next. 
+
+Commiting to commit
