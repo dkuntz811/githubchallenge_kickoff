@@ -7,3 +7,7 @@ If after I feel like I have a better handle on these two languages, I will begin
 Module Madness and Express Routing Challenge need to be updated next. 
 
 Updated Weekend 3: Calculator over the weekend. Need to ask why clicking in the fields kick off an error but still will put the numbers entered into an object. 
+
+Working on Favorite Pet API: Finally got pets to show up on DOM by actually closing the <select tag>
+
+Next: post pets to database...
