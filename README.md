@@ -11,3 +11,5 @@ Updated Weekend 3: Calculator over the weekend. Need to ask why clicking in the 
 Working on Favorite Pet API: Finally got pets to show up on DOM by actually closing the <select tag>
 
 Next: post pets to database...
+
+Both controllers are working. Need to fix $scope error. 
