@@ -13,3 +13,5 @@ Working on Favorite Pet API: Finally got pets to show up on DOM by actually clos
 Next: post pets to database...
 
 Both controllers are working. Need to fix $scope error. 
+
+Weekend 5 complete and sent to instructors. . Sent Weekend 4 to instructors for review. 
