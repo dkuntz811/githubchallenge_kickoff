@@ -15,3 +15,5 @@ Next: post pets to database...
 Both controllers are working. Need to fix $scope error. 
 
 Weekend 5 complete and sent to instructors. . Sent Weekend 4 to instructors for review. 
+
+Reviewd weekend 4 and 5 with Danny. Two Assessments to redo. 
