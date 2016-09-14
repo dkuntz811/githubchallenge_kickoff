@@ -19,3 +19,24 @@ Weekend 5 complete and sent to instructors. . Sent Weekend 4 to instructors for 
 Reviewd weekend 4 and 5 with Danny. Two Assessments to redo. 
 
 Beginning of Pi. Will continue to explore Angular. React next. 
+
+#Derek Banas-Angular Intro
+
+Modules: represent components in application-easier to resue code in other apps. 
+
+Directives: allows you to bind data to html elements. 
+
+Scope: data generated on the server or client side using JS code. allows for data binding Scope = data
+  When data changes on the html side it will change on the model side. When it changes on the model side
+  it will change on the html side == two way data binding. 
+
+
+Model, View, Whatever: 
+Model = data e.g. var firstname = "Dave";
+View: = html e.g. <h1>Dave</h1>
+
+The Model and the View are bound. 
+
+With Angular when you build an app, there are elements that don't pollute the global namespace. 
+    variables and functions don't collide and contradict variables and functions written elsewhere. 
+    
