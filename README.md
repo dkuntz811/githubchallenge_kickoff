@@ -39,4 +39,5 @@ The Model and the View are bound.
 
 With Angular when you build an app, there are elements that don't pollute the global namespace. 
     variables and functions don't collide and contradict variables and functions written elsewhere. 
+    Committed. 
     
